@@ -6,13 +6,13 @@ Fork from https://github.com/encoredev/ts-benchmarks
 
 This benchmark purpose is to compare performance between EncoreTS and Elysia
 
-Benchmark Date: 14 Nov 2025
-Machine specification: Intel i7-13700K, DDR5 32GB 5600MHz
-OS: Debian 11 (bullseye) on WSL - 5.15.167.4-microsoft-standard-WSL2
-Encore: 1.5.17
-Rust: 1.91.1
-Elysia: 1.4.16
-Bun: 1.3.2
+- Benchmark Date: 14 Nov 2025
+- Machine specification: Intel i7-13700K, DDR5 32GB 5600MHz
+- OS: Debian 11 (bullseye) on WSL - 5.15.167.4-microsoft-standard-WSL2
+- Encore: 1.5.17
+- Rust: 1.91.1
+- Elysia: 1.4.16
+- Bun: 1.3.2
 
 ## Changes from upstream
 1. Update Elysia version, add Elysia build script for production performance
