@@ -2,7 +2,12 @@
 
 Fork from https://github.com/encoredev/ts-benchmarks
 
-![Benchmark Results](./results.png)
+<img width="1897" height="1506" alt="Picture2" src="https://github.com/user-attachments/assets/3b5bb582-6094-4732-9f93-4a40e8934d33" />
+
+| Framework | Without Schema Validation | With Schema Valiadtion |
+| --- | --- | --- |
+| Encore | 139033 | 95854 |
+| Elysia | 293991 | 223924 |
 
 This benchmark purpose is to compare performance between EncoreTS and Elysia
 
